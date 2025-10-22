@@ -1,9 +1,0 @@
-{
-  "name": "avatars-manifest",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "build": "node scripts/build_manifest.mjs"
-  }
-}
-
